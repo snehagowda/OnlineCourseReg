@@ -1,0 +1,1 @@
+This Project is about Online Course registration in our College. The Database files are not included. So I regret it. I have used PHP, HTML, JavaScript, CSS. For further clarification please do contact me.
